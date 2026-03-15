@@ -1,4 +1,4 @@
-# Sistema Web PetShop
+# Sistema Web Pet Shop
 
 ## Sobre o Sistema
 Este sistema foi desenvolvido para apresentar os produtos e serviços de um petshop. 
