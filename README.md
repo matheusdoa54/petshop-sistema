@@ -6,10 +6,10 @@ Foi criado apenas com **HTML**, sem CSS, Bootstrap ou JavaScript.
 
 ## Funcionalidades
 
-- **Página Inicial (index.html):** Exibe o nome do PetShop, informações gerais e menu de navegação.
+- **Página Inicial (index.html):** Exibe o nome do Pet Shop, informações gerais e menu de navegação.
 - **Produtos (produtos.html):** Exibe três categorias (Rações, Brinquedos e Acessórios), com **imagem, descrição e valor** de cada produto.
 - **Serviços (servicos.html):** Lista serviços oferecidos (Banho, Tosa, Consulta Veterinária), cada um com **imagem, descrição e valor**.
-- **Ajuda (ajuda.html):** Explica o funcionamento do sistema, objetivos e metas.
+- **Ajuda (ajuda.html):** Explica o funcionamento do sistema.
 
 ## Navegação
 O menu presente em todas as páginas permite acessar: **Início, Produtos, Serviços e Ajuda**.
